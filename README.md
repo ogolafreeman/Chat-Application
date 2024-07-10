@@ -32,7 +32,7 @@ Run the following two lines of code in `Backend/`.
 npm install
 npm run start
 ```
-### 4 - Install & Start Front
+### 4 - Install & Start Frontend
 
 Run the following two lines of code in `Frontend/`.
 
