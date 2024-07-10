@@ -1,4 +1,4 @@
-# Connect React to Chat Engine!
+# Web Chat Application with React!
 
 This simple repo shows how to easily add chat functionality into a React project with [Chat Engine](https://chatengine.io).
 
